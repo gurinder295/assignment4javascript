@@ -2,7 +2,7 @@
 const studentName = "Gurinder Meelu";
 const studentId = "200622633"; 
 
-const CAT_API_KEY = "live_lgW3M82UAcp7m28gUNtaKbb0dRI2ze3sFJWcQpHoQshha8gJPqtnsFknVSZYknWG"; // Insert your API key from thecatapi.com
+const CAT_API_KEY = "live_lgW3M82UAcp7m28gUNtaKbb0dRI2ze3sFJWcQpHoQshha8gJPqtnsFknVSZYknWG"; 
 const CAT_API_URL = "https://api.thecatapi.com/v1/images/search";
 
 // ========== DOM Elements ==========
